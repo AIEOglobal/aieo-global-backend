@@ -1,0 +1,6 @@
+{
+  "functions": {
+    "api/scan-site.js": { "maxDuration": 30 },
+    "api/scan.js": { "maxDuration": 15 }
+  }
+}
